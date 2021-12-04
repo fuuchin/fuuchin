@@ -9,12 +9,24 @@ I'm...
 - Recently, I've been learning how to use git and about vulnerabilities.
 - My nickname is "Fuchin".
 
+My works
+---
+
+- []()
+- []()
+
 # Japanese
 #### こんにちは！
 
 私は...
 ---
 - プログラミンが好きで、[N予備校](https://www.nnn.ed.nico/)で勉強中です。
-- 私はまだ初心者ですが、簡単な作品は作ったことはあります。
+- まだ初心者ですが、簡単な作品は作ったことはあります。
 - 最近、gitの使い方や脆弱性について勉強しています。
 - 呼び方は「ふーちん」です。
+
+私が作った作品
+---
+
+- []()
+- []()
