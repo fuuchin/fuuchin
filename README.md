@@ -12,8 +12,9 @@ I'm...
 My works
 ---
 
-- []()
-- []()
+- [Assessment game](https://fuuchin.github.io/assessment/assessment.2.html)
+- [Emoticon Creation game](https://fuuchin.github.io/kaomoji-emoticon/index.html)
+- [Find the right name!](https://fuuchin.github.io/honmono_sagashi/index.html)
 
 # Japanese
 #### こんにちは！
@@ -28,5 +29,6 @@ My works
 私が作った作品
 ---
 
-- []()
-- []()
+- [あなたのいいところ診断ゲーム](https://fuuchin.github.io/assessment/assessment.2.html)
+- [顔文字制作!(^^)!](https://fuuchin.github.io/kaomoji-emoticon/index.html)
+- [ホンモノ探せ！](https://fuuchin.github.io/honmono_sagashi/index.html)
